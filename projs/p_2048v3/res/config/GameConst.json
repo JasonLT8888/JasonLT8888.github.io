@@ -1,0 +1,38 @@
+{
+    "game_version": "v0.0.1",
+    "special_roll_count": 4,
+    "notice_str": "游戏公告:\n\n12333221231",
+    "douyin_id": "飞小鸭游戏人",
+    "douyinVideoId": "13104d46097b1160060744100b28103705012b4201784163575d42430c7e406c505141400e7e",
+    "toutiaoVideoId": "13104115097f4637065c17410a2f4232025d2b42017f42645e51454008724c645353464c0e7d",
+    "officalAccountEnable": false,
+    "restitution": 0.1,
+    "friction": 1,
+    "shootVelocity": [
+        0,
+        0,
+        16
+    ],
+    "isDebugDraw": false,
+    "moveSpeed": 1,
+    "jumpSpeedX": [
+        -2,
+        2
+    ],
+    "jumpSpeedY": [
+        5,
+        7
+    ],
+    "jumpSpeedZ": [
+        1,
+        2
+    ],
+    "gravity": -9.8,
+    "scopeR": 1.5,
+    "knockR": 2,
+    "share_reward_coin": 1000,
+    "taskId": 8,
+    "popNewDiceId": 5,
+    "popShareAndPropId": -1,
+    "effDiceId": 11
+}
